@@ -1,5 +1,5 @@
 # ERC-Arduino-Clock
-Tinkercad project : https://www.tinkercad.com/things/60Y6dTeGjWB
+[Tinkercad project](https://www.tinkercad.com/things/60Y6dTeGjWB)
 ## Description
 Using a 16x2 LCD Display and 4x4 Numeric Keypad, build a circuit integrating clock,
 timer, and stopwatch. The user must set the timer and clock using a numeric keypad.
